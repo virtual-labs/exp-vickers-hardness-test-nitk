@@ -26,7 +26,7 @@ The Vickers test can be used for all metals and is one of the widely used test a
 
 </div>
 
-The angle between the two faces of diamond indenter used in Vickers hardness test is 136&deg; and the faces makes an angle 22&deg;with the horizontal. The HV number is then determined by the ratio F/A, where F is the force applied to the diamond in kilograms-force and A is the surface area of the indentation in square millimeters. A can be determined by the formula.
+The angle between the two faces of diamond indenter used in Vickers hardness test is 136&deg; and the faces makes an angle 22&deg; with the horizontal. The HV number is then determined by the ratio F/A, where F is the force applied to the diamond in kilograms-force and A is the surface area of the indentation in square millimeters. A can be determined by the formula.
 
 <div style="text-align: center">
 
@@ -56,7 +56,7 @@ The corresponding units of HV are then kilograms-force per square millimeter (kg
 
 <div style="text-align: center">
 
-HV=0.1891(F/d2)GPa
+HV=0.1891(F/d<sup>2</sup>)GPa
 
 </div>
 
