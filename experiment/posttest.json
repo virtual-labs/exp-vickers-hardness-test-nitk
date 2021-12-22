@@ -2,38 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the angle between the two faces of the diamond indenter used in Vickers hardness test?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "132°",
+        "b": "136°",
+        "c": "140°",
+        "d": "144°"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "b",
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The load to be applied on materials depends on ______________",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Young's modulus",
+        "b": "Yield",
+        "c": "hardness",
+        "d": "solid"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "What is the shape of indenter used in the Vickers hardness test?",
+      "answers": {
+        "a": "Triangular based pyramid",
+        "b": "Pentagonal based pyramid",
+        "c": "Hexagonal based pyramid",
+        "d": "Square based pyramid"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "What is the HV value of diamond under Vickers hardness test?",
+      "answers": {
+        "a": "8000HV",
+        "b": "9000HV",
+        "c": "10000HV",
+        "d": "11000HV"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "The minimum distance to be maintained between the indentations to avoid interaction between the work hardened region is",
+      "answers": {
+        "a": "5.5",
+        "b": "4.5",
+        "c": "3.5",
+        "d": "2.5"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
     }
   ]
 }
