@@ -2,38 +2,68 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the depth of indentation on the material used in Vickers hardness test?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "1/5 of the diagonal length",
+        "b": "1/6 of the diagonal length",
+        "c": "1/7 of the diagonal length",
+        "d": "1/8 of the diagonal length"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "Hardness has no quantitative value, except in terms of given load applied in a specified manner for a specified duration and a specified penetrator shape.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Match the following for Rockwell hardness test<br><img src='images/vkr.png' height=155 width=460/>",
+      "answers": {
+        "a": "i-b, ii-a/d, iii-a/d,iv-c",
+        "b": "i-a/d, ii-b, iii-a/d,iv-c",
+        "c": "i-c, ii-a/d, iii-a/d,iv-b",
+        "d": "i-b, ii-a/d, iii-c,iv-a/d"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "The similarity between Hardness test and Tensile test is",
+      "answers": {
+        "a": "Both measures material resistance to elastic flow",
+        "b": "Both measures material resistance to plastic flow",
+        "c": "No similarity",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
     }
   ]
 }
